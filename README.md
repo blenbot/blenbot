@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning Backend
 - 📫 How to reach me: @endkot
 - 😄 Pronouns: he/him
-- 
 
