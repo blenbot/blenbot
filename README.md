@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Harshit%20🚀&animation=fadeIn&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Harshit%20🚀&animation=fadeIn&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ## 🛠️ Tech Arsenal
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" width="45" height="45" style="background-color: white; border-radius: 5px; padding: 3px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
