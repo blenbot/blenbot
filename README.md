@@ -26,7 +26,7 @@
 
 ## 🛠️ Tech Arsenal
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
@@ -39,4 +39,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blenbot&layout=compact&theme=radical&langs_count=6&hide=html,css&count_private=true" />
 </p>
 
-![Snake Game Contribution Grid](https://github.com/blenbot/blenbot/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/blenbot/blenbot/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/blenbot/blenbot/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/blenbot/blenbot/output/github-contribution-grid-snake.svg"
+  />
+</picture>
