@@ -17,11 +17,9 @@
 ## Hi there 👋
 * 👂 My name is Harshit
 * 👩 Pronouns: He/Him
-* 🔭 I’m currently working on an AI Chatbot helping people make hangout plans.
-* 🌱 I’m currently learning rust
-* 🤝 I’m looking to collaborate on Fullstack/ML Projects
+* 🔭 Making stuff tryna be cool
+* 🤝 I’m looking to collaborate on game dev :)
 * 📫 How to reach me: @blenbot
-* ⚡ Fun fact: I know embedded programming too!
 
 
 ## 🛠️ Tech Arsenal
