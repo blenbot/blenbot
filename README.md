@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Reaper is calling my name dawg&animation=fadeIn&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Reaper%20is%20calling%20my%20name%20dawg&animation=fadeIn&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
