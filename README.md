@@ -14,17 +14,14 @@
 
 
 
-## Hi there 👋
-* 👂 My name is Harshit
-* 👩 Pronouns: He/Him
-* 🔭 Making stuff tryna be cool
-* 🤝 I’m looking to collaborate on game dev :)
-* 📫 How to reach me: @blenbot
+## Hey 'Sup
+* Name is Harshit
+* tryna find my place
 
 
-## 🛠️ Tech Arsenal
+## Schruff I know
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" width="45" height="45" style="background-color: white; border-radius: 5px; padding: 3px;"/>
+  <img src="https://rust-lang.org/logos/rust-logo-128x128-blk.png" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
