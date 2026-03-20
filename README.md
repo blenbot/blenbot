@@ -1,22 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Reaper%20is%20calling%20my%20name%20dawg&animation=fadeIn&fontSize=40&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/blenbot/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/blenbot">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-
-
-
 ## Hey 'Sup
 * Name is Harshit
-* tryna find my place
+* idk man
 
 
 ## Schruff I know
